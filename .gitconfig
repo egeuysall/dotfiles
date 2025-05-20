@@ -1,0 +1,34 @@
+[user]
+    name = Ege YourLastName
+    email = hello@egeuysal.com
+
+[core]
+    editor = nvim
+    autocrlf = input
+    safecrlf = true
+    excludesfile = ~/.gitignore_global
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    cm = commit
+    lg = log --oneline --graph --decorate --all
+    amend = commit --amend
+    last = log -1 HEAD
+
+[push]
+    default = simple
+
+[credential]
+    helper = osxkeychain
+
+[diff]
+    tool = vimdiff
+
+[merge]
+    tool = vimdiff
+
