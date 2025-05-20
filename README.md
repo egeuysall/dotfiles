@@ -1,4 +1,4 @@
-# 💤 LazyVim
+# Dotfiles
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Welcome to my dotfiles.  
+Includes tmux setup, LazyVim config for Neovim, Zsh with Oh My Zsh, and useful aliases.
